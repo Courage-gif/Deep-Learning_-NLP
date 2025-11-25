@@ -62,17 +62,6 @@ document-analysis-project/
 4. **Run All Cells** for complete analysis
 5. **Download Results** from generated Word documents
 
-### Local Installation
-```bash
-# Clone repository
-git clone https://github.com/yourusername/document-analysis-project.git
-cd document-analysis-project
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run in Jupyter notebook
-jupyter notebook Document_Analysis_Notebook.ipynb
 
 🎯 Usage
 Basic Usage
@@ -190,3 +179,6 @@ Enable GPU in Colab: Runtime → Change runtime type → GPU
 Clear memory: Restart runtime if needed
 
 Check file paths: Verify Google Drive mounting
+
+
+
